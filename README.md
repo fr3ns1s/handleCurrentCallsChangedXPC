@@ -25,5 +25,7 @@ entitlements (not all necessary):
     <string>modify-usernotifications</string>
     </array>
 
+![image](https://github.com/fr3ns1s/handleCurrentCallsChangedXPC/assets/47667961/2132ad6e-d3ef-4e78-8e74-f5641ab3d260)
+
 
  reference: [https://cyber.aon.com/aon_cyber_labs/apple-os-x-10-10-security-disclosure-cve-2015-3785-cve-2015-5897/](https://cyber.aon.com/aon_cyber_labs/apple-os-x-10-10-security-disclosure-cve-2015-3785-cve-2015-5897/)
